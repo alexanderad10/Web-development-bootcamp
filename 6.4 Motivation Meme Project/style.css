@@ -1,0 +1,23 @@
+h1{ 
+    text-transform: uppercase;
+}
+body{
+    background-color: black;
+}
+img{
+    border: solid white;
+    border-width: 5px;
+    width: 100%;
+}
+div{
+    color: white;
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 100px;
+}
+p{
+    font-size: small;
+}
+
